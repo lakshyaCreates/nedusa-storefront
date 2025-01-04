@@ -91,3 +91,7 @@ body {
         @apply h-full;
     }
 }
+
+.wrap {
+    @apply mx-auto size-full max-w-7xl px-6 sm:px-12 md:px-24;
+}
